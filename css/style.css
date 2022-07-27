@@ -3,6 +3,10 @@
     filter: brightness(50%);
 }
 
+.carousel-image-height{
+    height: 100vh;
+}
+
 .carousel-caption{
     display: flex !important; 
     justify-content: center !important;
