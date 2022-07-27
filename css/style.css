@@ -1,0 +1,10 @@
+
+.cover-image{
+    filter: brightness(50%);
+}
+
+.carousel-caption{
+    display: flex !important; 
+    justify-content: center !important;
+    align-items: center !important;
+}
