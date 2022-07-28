@@ -6,9 +6,15 @@
 .carousel-image-height{
     height: 100vh;
 }
+.explore-bg{
+    background-color: #F4FAFD;
+}
 
-.carousel-caption{
-    display: flex !important; 
-    justify-content: center !important;
-    align-items: center !important;
+.explore-image{
+    width: 50%;
+}
+@media only screen and (max-width:767px) {
+    .explore-image{
+        width: 90%;
+    }
 }
