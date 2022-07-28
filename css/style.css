@@ -13,7 +13,7 @@
 .explore-image{
     width: 50%;
 }
-@media only screen and (max-width:767px) {
+@media only screen and (max-width:767.9px) {
     .explore-image{
         width: 90%;
     }
